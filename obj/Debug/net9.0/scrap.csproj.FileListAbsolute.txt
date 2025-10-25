@@ -19,3 +19,25 @@ D:\Download Viruses without Minecraft\scrap\scrap\obj\Debug\net9.0\refint\scrap.
 D:\Download Viruses without Minecraft\scrap\scrap\obj\Debug\net9.0\scrap.pdb
 D:\Download Viruses without Minecraft\scrap\scrap\obj\Debug\net9.0\scrap.genruntimeconfig.cache
 D:\Download Viruses without Minecraft\scrap\scrap\obj\Debug\net9.0\ref\scrap.dll
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\scrap.exe
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\scrap.deps.json
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\scrap.runtimeconfig.json
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\scrap.dll
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\scrap.pdb
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\WebDriver.dll
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\runtimes\linux\native\selenium-manager
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\runtimes\osx\native\selenium-manager
+C:\Users\ddeni\Downloads\scrap_and_find\bin\Debug\net9.0\runtimes\win\native\selenium-manager.exe
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.csproj.AssemblyReference.cache
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.AssemblyInfoInputs.cache
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.AssemblyInfo.cs
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.csproj.CoreCompileInputs.cache
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.sourcelink.json
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.csproj.Up2Date
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.dll
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\refint\scrap.dll
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.pdb
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\scrap.genruntimeconfig.cache
+C:\Users\ddeni\Downloads\scrap_and_find\obj\Debug\net9.0\ref\scrap.dll

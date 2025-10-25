@@ -110,11 +110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Download Viruses without Minecraft\\scrap\\scrap\\scrap.csproj",
+      "projectUniqueName": "C:\\Users\\ddeni\\Downloads\\scrap_and_find\\scrap.csproj",
       "projectName": "scrap",
-      "projectPath": "D:\\Download Viruses without Minecraft\\scrap\\scrap\\scrap.csproj",
+      "projectPath": "C:\\Users\\ddeni\\Downloads\\scrap_and_find\\scrap.csproj",
       "packagesPath": "C:\\Users\\ddeni\\.nuget\\packages\\",
-      "outputPath": "D:\\Download Viruses without Minecraft\\scrap\\scrap\\obj\\",
+      "outputPath": "C:\\Users\\ddeni\\Downloads\\scrap_and_find\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
